@@ -1,4 +1,4 @@
-//Project: Online Marksheet Verification Using Merkle Tree structure
+//Project: Online Marksheet store and Verification Using Merkle Tree structure
 //Collaborators: Bishakha Sarkar, Prabal Das, Sayantan Ganguly
 //Ackownledgement: Dr. Laltu Sardar, Dr. Ritankar Mandal
 // Place : IAI, CREST, Kolkata
