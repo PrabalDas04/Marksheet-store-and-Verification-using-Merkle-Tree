@@ -1,0 +1,37 @@
+## Project title
+Marksheet authenticity and public verification using Merkle Tree
+
+## Collaborators
+Prabal Das, Bishaka Sarkar
+
+## Mentors
+Dr. Laltu Sardar, Dr. Ritankar Mandal
+
+## Date and Place
+IAI, CREST, Kolkata, Dec. 2022
+
+## Compilation Guide
+ $ gcc project.h project.c project_test.c -lm
+ $ ./a.out
+ 
+  This is not supported by Visual Studio Code IDE by some reasons, So better to run in Ubuntu GCC compiler IDE.
+
+## Input and Output file
+ input_project_name.txt & output.txt
+ 
+## Description
+In this project we constructed the Merkle Tree by SHA-256 hash function and computed the root of the tree from the input file.
+The path from root to a (leaf node)student's marksheet hash will be printed in the marksheet.
+Any one can compute the root from the marksheet and verify this root which will be uploaded in University website(secure place).
+Any further change in the marksheet(fraud) will be detected by the verifier since it will not match with the correct root. 
+
+## Further Improvements
+Although we have computed the Merkle tree and the path for reaching to each leaf nodes from root, but our goal is not fulfilled yet. There not further improvements:
+=> Verification code is not written. It is ongoing.
+=> The program runs for power of 2 no of students. It need to be run for any no of students.
+
+## License
+This project is licensed under the MIT License.
+
+## Happy Coding!!
+Thank you for exploring this project. I hope this project proves valuable to you. Your contributions and feedback are greatly appreciated as I continue to evolve and improve. Happy coding!

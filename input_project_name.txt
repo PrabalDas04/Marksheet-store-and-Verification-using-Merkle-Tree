@@ -1,0 +1,8 @@
+Ruchi_Bansal 01 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Akhilesh_ROY 02 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Isha_Boddour 03 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Roy 04 B22 sub1 60 B sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Chanchal_Kumar 05 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Prabal_Das 03 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+B_Sarkar 04 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
+Ceug_Das 05 B22 sub1 50 A sub2 60 B sub3 70 D sub4 70 D sub5 60 B 310 500 B
